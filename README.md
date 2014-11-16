@@ -1,4 +1,4 @@
-# namshi/elasticsearch
+# docker-elasticsearch
 
 A dockerfile for [ElasticSearch 1.4.0](http://www.elasticsearch.org/blog/elasticsearch-1-4-0-released/).
 
