@@ -10,3 +10,4 @@ in a separate branch sometime soon); meanwhile, if you wanna
 ## Alternatives
 
 * [3scale/docker-elasticsearch](https://github.com/3scale/docker-elasticsearch)
+* [dockerfiles/elasticsearch](https://github.com/dockerfile/elasticsearch)
